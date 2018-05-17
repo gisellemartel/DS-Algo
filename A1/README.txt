@@ -1,5 +1,5 @@
 
-Giselle Martel ID# 26352936
+Giselle Martel
 COMP 352 Assignment 1 Question 1
 
 =========================================================================
