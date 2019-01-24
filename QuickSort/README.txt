@@ -1,37 +1,24 @@
-
 Giselle Martel
 COMP 352 Assignment 1 Question 1
 
 =========================================================================
-Instructions to run Huffman program
+Instructions to run array insertion sort program
 =========================================================================
 
 
-To compile, in command line enter:  	javac Huffman.java
+To compile, in command line enter:  		javac ISort.java
 
 -------------------------------------------------------------------------
 
-To run program please include name 
-of source text file:			java Huffman jabberwock.txt
-
-
-
-=========================================================================
-Instructions to run SplayTree program
-=========================================================================
-
-
-To compile, in command line enter:  	javac SplayTree.java
+to run normal insertion sort       
+include list of numbers to be
+sorted at end (separated each by 
+one space):					java ISort 8 3 2 1
 
 -------------------------------------------------------------------------
 
-To run program please include name 
-of source text file:			java SplayTree operations.txt
-
--------------------------------------------------------------------------
-
-Optional argument for traversal 
-step may be indicated:			java SplayTree operations.txt 4
-
+if debug is desired enter "debug" 
+followed by list of numbers to be 
+sorted (separated each by one space):    	java ISort debug 3 4 2 6
 			
 			
