@@ -1,1 +1,1 @@
-Assignments focused on Data Structures & Algorithms
+Projects focused on Data Structures & Algorithms
