@@ -13,7 +13,7 @@ To compile, in command line enter:  	javac Huffman.java
 
 To run program please include name 
 of source text file:			java Huffman jabberwock.txt
-
+PLEASE PLACE SOURCE TEXT FILE IN SRC FOLDER
 
 
 =========================================================================
@@ -27,11 +27,9 @@ To compile, in command line enter:  	javac SplayTree.java
 
 To run program please include name 
 of source text file:			java SplayTree operations.txt
+PLEASE PLACE SOURCE TEXT FILE IN SRC FOLDER
 
 -------------------------------------------------------------------------
 
 Optional argument for traversal 
 step may be indicated:			java SplayTree operations.txt 4
-
-			
-			

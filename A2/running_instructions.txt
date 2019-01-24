@@ -1,0 +1,70 @@
+
+Giselle Martel ID# 26352936
+COMP 352 Assignment 2 Question 2
+
+=========================================================================
+Instructions to run Heap Sort program HSDriver
+=========================================================================
+
+
+To compile, in command line enter:  		javac HSDriver.java
+
+-------------------------------------------------------------------------
+
+to run heap sort with randomized array with no tracing    
+indicate "RandomGen", then the length of the array, and then -1
+
+example: 
+
+java HSDriver RandomGen 10 -1
+
+-------------------------------------------------------------------------
+
+to run heap sort with randomized array with no tracing, and with the
+same seed, indicate "RandomGen", then the length of the array, then -1,
+then a long value for the seed
+
+example:
+				
+java HSDriver RandomGen 10 -1 99
+
+-------------------------------------------------------------------------
+
+to run heap sort with randomized array with tracing, and with the
+same seed, indicate "RandomGen", then the length of the array, then trace step.
+then a long value for the seed
+
+example:
+				
+java HSDriver RandomGen 10 2 99
+
+-------------------------------------------------------------------------
+
+to run heap sort with randomized array with tracing,
+indicate "RandomGen", then the length of the array, and then trace step.
+
+example:
+				
+java HSDriver RandomGen 10 2
+
+-------------------------------------------------------------------------
+
+
+
+to run heap sort with array of descending order with no tracing    
+indicate "FixedGen", then the length of the array, and then -1
+
+example: 
+
+java HSDriver FixedGen 10 -1
+
+-------------------------------------------------------------------------
+
+to run heap sort with array of descending order with tracing, 
+indicate "FixedGen", then the length of the array, and then the trace step
+
+example: 
+
+java HSDriver FixedGen 10 2
+
+-------------------------------------------------------------------------
